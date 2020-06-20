@@ -10,7 +10,7 @@ import model.design.CJuros;
 
 /**
  *
- * @author Carlos
+ * @author Elias
  */
 public class CJuorosInterface extends javax.swing.JFrame {
 
